@@ -3,7 +3,7 @@
 ### Circuit Diagram and Source Code are available in this repositary
 # Proteus Project Sources
 
-![Program Logo](https://img.icons8.com/color/48/c-programming.png) ![8051 Microcontroller Logo](https://img.icons8.com/external-solidglyph-m-oki-orlando/32/external-Microcontroller-internet-of-things-solidglyph-m-oki-orlando.png)  
+![Program Logo](https://img.icons8.com/color/48/c-programming.png) ![8051 Microcontroller Logo](https://img.icons8.com/officel/50/integrated-circuit.png)  
 
 Welcome to the **Proteus Project Repository**! This repository contains my completed projects, including circuit diagrams and source code. Each project in this repository showcases different electronics circuits created and simulated in Proteus, with the corresponding source code to drive them.
 
